@@ -6,7 +6,7 @@ pandas==1.5.3
 pymannkendall==1.4.3
 python_binance==1.0.17
 ray==2.4.0
-scipy==1.11.1
+scipy==1.13.1
 seaborn==0.12.2
 statsmodels==0.14.0
 torch==2.1.0
